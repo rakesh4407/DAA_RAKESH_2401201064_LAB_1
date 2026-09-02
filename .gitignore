@@ -1,0 +1,67 @@
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging artefacts
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook auto-save checkpoints
+.ipynb_checkpoints/
+
+# pyenv version file
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pdm
+.pdm.toml
+.pdm-python
+.pdm-build/
+
+# PEP 582
+__pypackages__/
+
+# Environment variable files
+.env
+.env.local
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary image files in project root
+*.jpg
+*.jpeg
+image-*.png
